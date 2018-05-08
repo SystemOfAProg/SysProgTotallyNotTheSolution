@@ -3,9 +3,9 @@
     	
     <storageModule moduleId="org.eclipse.cdt.core.settings">
         		
-        <cconfiguration id="cdt.managedbuild.toolchain.gnu.macosx.base.1079458315">
+        <cconfiguration id="cdt.managedbuild.toolchain.gnu.macosx.base.1941116088">
             			
-            <storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="cdt.managedbuild.toolchain.gnu.macosx.base.1079458315" moduleId="org.eclipse.cdt.core.settings" name="Default">
+            <storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="cdt.managedbuild.toolchain.gnu.macosx.base.1941116088" moduleId="org.eclipse.cdt.core.settings" name="Default">
                 				
                 <externalSettings/>
                 				
@@ -29,21 +29,21 @@
             			
             <storageModule moduleId="cdtBuildSystem" version="4.0.0">
                 				
-                <configuration buildProperties="" description="" id="cdt.managedbuild.toolchain.gnu.macosx.base.1079458315" name="Default" parent="org.eclipse.cdt.build.core.emptycfg">
+                <configuration buildProperties="" id="cdt.managedbuild.toolchain.gnu.macosx.base.1941116088" name="Default" parent="org.eclipse.cdt.build.core.emptycfg">
                     					
-                    <folderInfo id="cdt.managedbuild.toolchain.gnu.macosx.base.1079458315.337346252" name="/" resourcePath="">
+                    <folderInfo id="cdt.managedbuild.toolchain.gnu.macosx.base.1941116088.1901251883" name="/" resourcePath="">
                         						
-                        <toolChain id="cdt.managedbuild.toolchain.gnu.macosx.base.1741391749" name="MacOSX GCC" superClass="cdt.managedbuild.toolchain.gnu.macosx.base">
+                        <toolChain id="cdt.managedbuild.toolchain.gnu.macosx.base.1315352926" name="MacOSX GCC" superClass="cdt.managedbuild.toolchain.gnu.macosx.base">
                             							
-                            <targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.MachO64" id="cdt.managedbuild.target.gnu.platform.macosx.base.428929725" name="Debug Platform" osList="macosx" superClass="cdt.managedbuild.target.gnu.platform.macosx.base"/>
+                            <targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.MachO64" id="cdt.managedbuild.target.gnu.platform.macosx.base.1504851850" name="Debug Platform" osList="macosx" superClass="cdt.managedbuild.target.gnu.platform.macosx.base"/>
                             							
-                            <builder id="cdt.managedbuild.target.gnu.builder.macosx.base.198726817" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Gnu Make Builder" superClass="cdt.managedbuild.target.gnu.builder.macosx.base"/>
+                            <builder id="cdt.managedbuild.target.gnu.builder.macosx.base.576447661" managedBuildOn="false" name="Gnu Make Builder.Default" superClass="cdt.managedbuild.target.gnu.builder.macosx.base"/>
                             							
-                            <tool id="cdt.managedbuild.tool.macosx.c.linker.macosx.base.1471930714" name="MacOS X C Linker" superClass="cdt.managedbuild.tool.macosx.c.linker.macosx.base"/>
+                            <tool id="cdt.managedbuild.tool.macosx.c.linker.macosx.base.971175988" name="MacOS X C Linker" superClass="cdt.managedbuild.tool.macosx.c.linker.macosx.base"/>
                             							
-                            <tool id="cdt.managedbuild.tool.macosx.cpp.linker.macosx.base.1395525110" name="MacOS X C++ Linker" superClass="cdt.managedbuild.tool.macosx.cpp.linker.macosx.base">
+                            <tool id="cdt.managedbuild.tool.macosx.cpp.linker.macosx.base.45965161" name="MacOS X C++ Linker" superClass="cdt.managedbuild.tool.macosx.cpp.linker.macosx.base">
                                 								
-                                <inputType id="cdt.managedbuild.tool.macosx.cpp.linker.input.2044530880" superClass="cdt.managedbuild.tool.macosx.cpp.linker.input">
+                                <inputType id="cdt.managedbuild.tool.macosx.cpp.linker.input.398013727" superClass="cdt.managedbuild.tool.macosx.cpp.linker.input">
                                     									
                                     <additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
                                     									
@@ -53,23 +53,23 @@
                                 							
                             </tool>
                             							
-                            <tool id="cdt.managedbuild.tool.gnu.assembler.macosx.base.1915107477" name="GCC Assembler" superClass="cdt.managedbuild.tool.gnu.assembler.macosx.base">
+                            <tool id="cdt.managedbuild.tool.gnu.assembler.macosx.base.1808827411" name="GCC Assembler" superClass="cdt.managedbuild.tool.gnu.assembler.macosx.base">
                                 								
-                                <inputType id="cdt.managedbuild.tool.gnu.assembler.input.123120395" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+                                <inputType id="cdt.managedbuild.tool.gnu.assembler.input.1798504971" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
                                 							
                             </tool>
                             							
-                            <tool id="cdt.managedbuild.tool.gnu.archiver.macosx.base.59711722" name="GCC Archiver" superClass="cdt.managedbuild.tool.gnu.archiver.macosx.base"/>
+                            <tool id="cdt.managedbuild.tool.gnu.archiver.macosx.base.948800259" name="GCC Archiver" superClass="cdt.managedbuild.tool.gnu.archiver.macosx.base"/>
                             							
-                            <tool id="cdt.managedbuild.tool.gnu.cpp.compiler.macosx.base.1642025855" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.macosx.base">
+                            <tool id="cdt.managedbuild.tool.gnu.cpp.compiler.macosx.base.1406097386" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.macosx.base">
                                 								
-                                <inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.1968614238" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
+                                <inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.1627965038" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
                                 							
                             </tool>
                             							
-                            <tool id="cdt.managedbuild.tool.gnu.c.compiler.macosx.base.808929446" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.macosx.base">
+                            <tool id="cdt.managedbuild.tool.gnu.c.compiler.macosx.base.76773973" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.macosx.base">
                                 								
-                                <inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.825419921" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
+                                <inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.1530909337" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
                                 							
                             </tool>
                             						
@@ -587,61 +587,27 @@
     	
     <storageModule moduleId="cdtBuildSystem" version="4.0.0">
         		
-        <project id="SysProg.null.1833891931" name="SysProg"/>
+        <project id="SysProg.null.1526600043" name="SysProg"/>
         	
     </storageModule>
     	
     <storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
     	
-    <storageModule moduleId="refreshScope"/>
-    	
     <storageModule moduleId="org.eclipse.cdt.make.core.buildtargets">
         		
         <buildTargets>
             			
-            <target name="makeStartScanner" path="Scanner" targetID="org.eclipse.cdt.build.MakeTargetBuilder">
+            <target name="all" path="" targetID="org.eclipse.cdt.build.MakeTargetBuilder">
                 				
                 <buildCommand>make</buildCommand>
                 				
                 <buildArguments/>
                 				
-                <buildTarget>makeStartScanner</buildTarget>
+                <buildTarget>Build All Components</buildTarget>
                 				
                 <stopOnError>true</stopOnError>
                 				
-                <useDefaultCommand>true</useDefaultCommand>
-                				
-                <runAllBuilders>true</runAllBuilders>
-                			
-            </target>
-            			
-            <target name="AutomatTarget" path="Automat" targetID="org.eclipse.cdt.build.MakeTargetBuilder">
-                				
-                <buildCommand>make</buildCommand>
-                				
-                <buildArguments/>
-                				
-                <buildTarget>AutomatTarget</buildTarget>
-                				
-                <stopOnError>true</stopOnError>
-                				
-                <useDefaultCommand>true</useDefaultCommand>
-                				
-                <runAllBuilders>true</runAllBuilders>
-                			
-            </target>
-            			
-            <target name="automatOBJs" path="" targetID="org.eclipse.cdt.build.MakeTargetBuilder">
-                				
-                <buildCommand>make</buildCommand>
-                				
-                <buildArguments/>
-                				
-                <buildTarget>automatOBJs</buildTarget>
-                				
-                <stopOnError>true</stopOnError>
-                				
-                <useDefaultCommand>true</useDefaultCommand>
+                <useDefaultCommand>false</useDefaultCommand>
                 				
                 <runAllBuilders>true</runAllBuilders>
                 			
