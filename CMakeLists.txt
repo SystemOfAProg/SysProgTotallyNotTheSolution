@@ -1,0 +1,72 @@
+cmake_minimum_required(VERSION 3.10)
+project(Systemnahes_Programmieren_master)
+
+set(CMAKE_CXX_STANDARD 11)
+
+include_directories(Automat/includes)
+include_directories(Buffer/includes)
+include_directories(Parser/includes)
+include_directories(Parser/includes/Nodes)
+include_directories(Scanner/includes)
+include_directories(Symboltable/includes)
+
+add_executable(Systemnahes_Programmieren_master
+        Automat/includes/Automat.h
+        Automat/src/Automat.cpp
+        Automat/src/TestAutomat.cpp
+        Buffer/includes/Buffer.h
+        Buffer/src/Buffer.cpp
+        Buffer/src/TestBuffer.cpp
+        Parser/includes/Nodes/NodeArray.h
+        Parser/includes/Nodes/NodeDecl.h
+        Parser/includes/Nodes/NodeDecls.h
+        Parser/includes/Nodes/NodeEpsilon.h
+        Parser/includes/Nodes/NodeExp.h
+        Parser/includes/Nodes/NodeExp2.h
+        Parser/includes/Nodes/NodeExp2Bracket.h
+        Parser/includes/Nodes/NodeExp2Exclamation.h
+        Parser/includes/Nodes/NodeExp2Identifier.h
+        Parser/includes/Nodes/NodeExp2Integer.h
+        Parser/includes/Nodes/NodeExp2Minus.h
+        Parser/includes/Nodes/NodeIdentifier.h
+        Parser/includes/Nodes/NodeIndex.h
+        Parser/includes/Nodes/NodeInteger.h
+        Parser/includes/Nodes/NodeOp.h
+        Parser/includes/Nodes/NodeOpExp.h
+        Parser/includes/Nodes/NodeProg.h
+        Parser/includes/Nodes/NodeStatement.h
+        Parser/includes/Nodes/NodeStatementAssign.h
+        Parser/includes/Nodes/NodeStatementBlock.h
+        Parser/includes/Nodes/NodeStatementIf.h
+        Parser/includes/Nodes/NodeStatementRead.h
+        Parser/includes/Nodes/NodeStatements.h
+        Parser/includes/Nodes/NodeStatementWhile.h
+        Parser/includes/Nodes/NodeStatementWrite.h
+        Parser/includes/Node.h
+        Parser/includes/Parser.h
+        Parser/includes/ParseTree.h
+        Parser/includes/ParseTreeVisitor.h
+        Parser/includes/ParseTreeVisitorCode.h
+        Parser/includes/ParseTreeVisitorType.h
+        Parser/src/Node.cpp
+        Parser/src/Parser.cpp
+        Parser/src/ParseTree.cpp
+        Parser/src/ParseTreeVisitorCode.cpp
+        Parser/src/ParseTreeVisitorType.cpp
+        Parser/src/TestParser.cpp
+        Scanner/includes/Scanner.h
+        Scanner/includes/Token.h
+        Scanner/src/Scanner.cpp
+        Scanner/src/StartScanner.cpp
+        Scanner/src/Token.cpp
+        Symboltable/includes/Information.h
+        Symboltable/includes/StringTable.h
+        Symboltable/includes/StringTabNode.h
+        Symboltable/includes/Symboltable.h
+        Symboltable/includes/SymtabEntry.h
+        Symboltable/src/Information.cpp
+        Symboltable/src/StringTable.cpp
+        Symboltable/src/StringTabNode.cpp
+        Symboltable/src/Symboltable.cpp
+        Symboltable/src/SymtabEntry.cpp
+        Symboltable/src/TestSymboltable.cpp)

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Systemnahes_Programmieren_master"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Systemnahes_Programmieren_master">
+				<Option output="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Systemnahes_Programmieren_master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Automat/includes"/>
+					<Add directory="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Buffer/includes"/>
+					<Add directory="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes"/>
+					<Add directory="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes"/>
+					<Add directory="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Scanner/includes"/>
+					<Add directory="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Symboltable/includes"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 Systemnahes_Programmieren_master"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Systemnahes_Programmieren_master/fast">
+				<Option output="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Systemnahes_Programmieren_master" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Automat/includes"/>
+					<Add directory="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Buffer/includes"/>
+					<Add directory="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes"/>
+					<Add directory="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes"/>
+					<Add directory="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Scanner/includes"/>
+					<Add directory="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Symboltable/includes"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 Systemnahes_Programmieren_master/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Automat/includes/Automat.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Automat/src/Automat.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Automat/src/TestAutomat.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Buffer/includes/Buffer.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Buffer/src/Buffer.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Buffer/src/TestBuffer.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Node.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeArray.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeDecl.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeDecls.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeEpsilon.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeExp.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeExp2.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeExp2Bracket.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeExp2Exclamation.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeExp2Identifier.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeExp2Integer.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeExp2Minus.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeIdentifier.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeIndex.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeInteger.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeOp.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeOpExp.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeProg.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeStatement.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeStatementAssign.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeStatementBlock.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeStatementIf.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeStatementRead.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeStatementWhile.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeStatementWrite.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Nodes/NodeStatements.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/ParseTree.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/ParseTreeVisitor.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/ParseTreeVisitorCode.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/ParseTreeVisitorType.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/includes/Parser.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/src/Node.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/src/ParseTree.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/src/ParseTreeVisitorCode.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/src/ParseTreeVisitorType.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/src/Parser.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Parser/src/TestParser.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Scanner/includes/Scanner.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Scanner/includes/Token.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Scanner/src/Scanner.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Scanner/src/StartScanner.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Scanner/src/Token.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Symboltable/includes/Information.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Symboltable/includes/StringTabNode.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Symboltable/includes/StringTable.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Symboltable/includes/Symboltable.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Symboltable/includes/SymtabEntry.h">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Symboltable/src/Information.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Symboltable/src/StringTabNode.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Symboltable/src/StringTable.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Symboltable/src/Symboltable.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Symboltable/src/SymtabEntry.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/Symboltable/src/TestSymboltable.cpp">
+			<Option target="Systemnahes_Programmieren_master"/>
+		</Unit>
+		<Unit filename="/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/markusheupel/Downloads/Systemnahes-Programmieren-master/cmake-build-debug/CMakeFiles/Systemnahes_Programmieren_master.dir
